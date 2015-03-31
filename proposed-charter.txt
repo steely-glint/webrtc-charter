@@ -1,4 +1,3 @@
-MID
 Web Real-Time Communications Working Group Charter
 
 The mission of the Web Real-Time Communications Working Group, part of the Ubiquitous Web Applications Activity, is to define client-side APIs to enable Real-Time Communications in Web browsers.
@@ -7,7 +6,7 @@ These APIs should enable building applications that can be run inside a browser,
 
 Join the Web Real-Time Communications Working Group.
 
-End date	March 2018
+End date	March 2017
 Confidentiality	Proceedings are public
 Initial Chairs	
 Harald Alvestrand
@@ -81,7 +80,7 @@ Screen Capture API
 An extension to the Media Capture and Streams API to use a user's display, or parts thereof, as the source of a MediaStream.
 This work will be done in collaboration with the IETF. The W3C will define APIs to ensure that application developers can control the components or the architecture for selection and profiling of the wire protocols that will be produced by the IETF Real-Time Communication in WEB-browsers (RTCWeb) Working Group. While the specified API Functions will not constrain implementations into supporting a specific profile, they will be compatible with the Profile that will be specified by the RTCWeb Working Group.
 
-As the name implies, WebRTC 1.0: Real-time Communication Between Browsers is to be considered as a first version of APIs for real-time communication. The working group will, once WebRTC 1.0: Real-time Communication Between Browsers reaches Candidate Recommendation, consider working on a new set of low level object-oriented APIs for real-time communication. The activities in the ORTC (Object Real-time Communications) Community Group indicate that there is interest in a new set of APIs. As part of this consideration, the group will reevaluate its deliverables and milestones, and may reconsider its scope.
+As the name implies, WebRTC 1.0: Real-time Communication Between Browsers is to be considered as a first version of APIs for real-time communication. The working group will, once WebRTC 1.0: Real-time Communication Between Browsers reaches Candidate Recommendation, consider proposal for object-oriented extensions to this API for real-time communication. 
 
 The specified API Functions and the requirements on their implementation must offer functionality that ensures that users' expectations of privacy and control over their devices are met - this includes, but is not limited to, ensuring that users can control what local devices an application can access for capturing media, and are able to at any time revoke that access.
 
@@ -115,7 +114,7 @@ Identifiers for WebRTC's Statistics API	2014-10-21	Q4 2015	Q4 2016	Q1 2017
 Media Capture from DOM Elements	Q1 2015	Q4 2015	Q3 2016	Q4 2016
 Audio output API	Q1 2015	Q3 2015	Q2 2016	Q3 2016
 Screen Capture API	Q1 2015	Q4 2015	Q3 2016	Q4 2016
-WebRTC NG	Q1 2016	Q2 2017	Q4 2017	Q1 2018
+WebRTC 1.1:Real-time Communication Between Browsers	Q1 2016	Q2 2017	Q4 2017	Q1 2018
 
 Dependencies and Liaisons
 
